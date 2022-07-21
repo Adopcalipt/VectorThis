@@ -1,0 +1,10 @@
+C:\Users\Ado\source\repos\VectorThis\VectorThis\bin\Debug\VectorThis.dll
+C:\Users\Ado\source\repos\VectorThis\VectorThis\bin\Debug\VectorThis.pdb
+C:\Users\Ado\source\repos\VectorThis\VectorThis\obj\Debug\VectorThis.csproj.AssemblyReference.cache
+C:\Users\Ado\source\repos\VectorThis\VectorThis\obj\Debug\VectorThis.csproj.CoreCompileInputs.cache
+C:\Users\Ado\source\repos\VectorThis\VectorThis\obj\Debug\VectorThis.dll
+C:\Users\Ado\source\repos\VectorThis\VectorThis\obj\Debug\VectorThis.pdb
+C:\Users\Ado\source\repos\VectorThis\VectorThis\bin\Debug\ScriptHookVDotNet2.dll
+C:\Users\Ado\source\repos\VectorThis\VectorThis\bin\Debug\ScriptHookVDotNet2.pdb
+C:\Users\Ado\source\repos\VectorThis\VectorThis\bin\Debug\ScriptHookVDotNet2.xml
+C:\Users\Ado\source\repos\VectorThis\VectorThis\obj\Debug\VectorThis.csproj.CopyComplete
